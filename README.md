@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Lyart123
 - 🌱 I’m currently learning C
-- 🎓Now i'm studing in Saint-Pitersberg University
 - 📫 How to reach me? My email adress artemlysunets@gmail.com
 - printf("what's up?");
 
